@@ -16,16 +16,16 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/15b2b2da-02e2-40af-b076-e15018d7451b" alt="Classic vs IMD Design Comparison" width="300" />
+      <img src="https://github.com/user-attachments/assets/88ecc75c-6c18-4dcf-b4aa-6bffc58c79b7" alt="Classic vs IMD Design Comparison" width="300" />
     </td>
   </tr>
 </table>
 
-<img alt="CAD model 1" src="https://github.com/user-attachments/assets/00eecef0-3af4-4134-9f31-0435513bc690" />
+<img alt="CAD model 1" src="https://github.com/user-attachments/assets/ae730f42-582e-4b8e-98d2-0a5ea0b28907" />
 
 <p align="center">
-  <img alt="Real life model 1" src="https://github.com/user-attachments/assets/dfbffd42-e4fc-4ae4-a5a7-ca199508febd" width="49%" />
-  <img alt="Real life model 2" src="https://github.com/user-attachments/assets/40652664-03cc-4b4e-9de1-61220f30514b" width="49%" />
+  <img alt="Real life model 1" src="https://github.com/user-attachments/assets/289cd1fa-0897-4077-aa86-7879d43f984e" width="49%" />
+  <img alt="Real life model 2" src="https://github.com/user-attachments/assets/fd794e58-b919-4805-a193-9f37b1895fc0" width="49%" />
 </p>
 
 ## Basic Characteristics
@@ -48,8 +48,8 @@ To help you integrate these modules into your robot, I have included CAD models 
 **[View Custom Plate Chassis in Onshape](https://cad.onshape.com/documents/8f367a5f6d2e58f122acd332/w/d92d81f4d48a76e09882f61c/e/f1c13dd2a2df37d270d419c0)**
 
 <p align="center">
-  <img alt="goBILDA Chassis CAD model 1" src="https://github.com/user-attachments/assets/b85ede11-4aa9-4c16-84e9-557c7977760d" width="49%" />
-  <img alt="Custom Chassis CAD model 1" src="https://github.com/user-attachments/assets/3f241528-4cf4-4faa-ac5f-f4d5b4e6b265" width="49%" />
+  <img alt="goBILDA Chassis CAD model 1" src="https://github.com/user-attachments/assets/b353e71b-cdf1-40f3-9fd2-dad34ba7a79d" width="49%" />
+  <img alt="Custom Chassis CAD model 1" src="https://github.com/user-attachments/assets/a9986950-731c-406e-b2f5-aae164622a2f" width="49%" />
 </p>
 
 ## 3D Printing Recommendations
@@ -78,7 +78,6 @@ To build **one** complete wheel module, you will need the following parts:
 | 12 | 1 | Wheel Spacer [`3d Printed`](https://cad.onshape.com/documents/8f367a5f6d2e58f122acd332/w/d92d81f4d48a76e09882f61c/e/5f703f59c31e528baac41de4)|
 
 ## Assembly instructions
-<img width="4961" height="3508" alt="Integrated Mecanum Drive (IMD) Assembly instructions" src="https://github.com/user-attachments/assets/1fc2581b-75f6-48bc-9793-7136b9691c6c" />
+<img width="4961" height="3508" alt="Integrated Mecanum Drive (IMD) Assembly instructions" src="https://github.com/user-attachments/assets/1cb9ba51-6167-4341-a4bd-43b892eef80c" />
 
-Integrated Mecanum Drive (IMD)  © 2026 by Gabriel Pieniek is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/<img width="1920" 
-# Integrated-Mecanum-Drive
+Integrated Mecanum Drive (IMD)  © 2026 by Gabriel Pieniek is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
